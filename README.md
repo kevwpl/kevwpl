@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Hi, I'm Kevin
+I am huge fan of [@svelte](https://github.com/sveltejs/svelte) and will share some of the stuff i'll do with it here.
+
+# Contact me
+Reach out to me at [office\@kwippel.at](mailto:office\@kwippel.at)
+
 
 <!--
 **kevwpl/kevwpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
