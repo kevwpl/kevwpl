@@ -2,7 +2,7 @@
 I am huge fan of [@svelte](https://github.com/sveltejs/svelte) and will share some of the stuff i'll do with it here.
 
 # Contact me
-Reach out to me at [office\@kwippel.at](mailto:office\@kwippel.at)
+Reach out to me at [wippelkevin1\@gmail.com](mailto:wippelkevin1\@gmail.com)
 
 
 <!--
